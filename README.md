@@ -35,13 +35,13 @@ Xcode
 
 All images loaded successful.
 
-![](normal.png)
+![](http://resource.luoxianming.cn/rnimagenormal.png)
 
 ### Actual Behavior
 
 Some images failed to load.
 
-![](failed.png)
+![](http://resource.luoxianming.cn/rnimgefailed.png)
 
 ### Reproducible Demo
 
